@@ -17,7 +17,7 @@ body {
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
-    font-family: 'Sanchez', serif;
+    font-family: 'Sanchez', serif; 
     color: orange ;
     font-size: 40px
 }
