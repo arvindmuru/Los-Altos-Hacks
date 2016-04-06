@@ -17,7 +17,7 @@ var person = vex.dialog.prompt({
 		    		// console.log(rep);
 		    	});
 		    	content += "Remember: Primary elections take place on June 7th at your local voting center!";
-		    	vex.dialog.alert(content);
+		    	vex.dialog.alert(content); 
 		    });
 		    // $('#demo').html("Hello " + person + "! How are you today?");
 		}
